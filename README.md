@@ -1,2 +1,2 @@
-# Minha-Cidade-Mais-Bonita
-Aplicativo feito com React-Native Expo para alerta de cidades.
+# MinhaCidadeMaisBonita
+Desenvolvimento progressivo em React Native e Expo, com leitura guiada de cada arquivo e validação a cada etapa.
